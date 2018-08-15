@@ -1,4 +1,4 @@
 # My Calc
 
 ## Screenshot
-![alt text](https://github.com/ikhsanalatsary/My-Calc/raw/master/src/common/images/SS.png "Screenshot App")
+![Screenshot App](https://github.com/ikhsanalatsary/My-Calc/blob/master/SS.png "My Calc")
