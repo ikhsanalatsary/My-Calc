@@ -1,4 +1,4 @@
 # My Calc
 
 ## Screenshot
-![Screenshot App](https://github.com/ikhsanalatsary/My-Calc/blob/master/SS.png "My Calc")
+<img src="https://github.com/ikhsanalatsary/My-Calc/blob/master/SS.png" width="267" alt="Finished App" title="Demo My Calc">
